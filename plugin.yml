@@ -1,0 +1,6 @@
+name: Tutorial
+version: 0.1
+description: This Tutorial Plugin.
+author: FragCrypt
+ 
+main: me.FragCrypt.Tutorial.Main
